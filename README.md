@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=Kim%20Seona&fontSize=90&theme=material-palenight)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Kim%20Seona&fontSize=90&theme=gruvbox_light)
 
 
 - 👋 Hi, I’m @Seona056
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seona056&show_icons=true&theme=material-palenight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seona056&show_icons=true&theme=gruvbox_light)
 
   
   <h4> 🏆Baejoon Ranking </h4>
