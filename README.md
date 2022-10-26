@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Kim%20Seona&fontSize=90&theme=gruvbox_light)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Kim%20Seona&fontSize=90&theme=gruvbox_light)
 
 
 - 👋 Hi, I’m @Seona056
