@@ -28,6 +28,6 @@ You can click the Preview link to take a look at your changes.
   
   <h4> 🏆Baejoon Ranking </h4>
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinotnoir056)](https://solved.ac/pinotnoir056)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinotnoir056)](https://solved.ac)
   
 </div>
