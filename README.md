@@ -29,6 +29,6 @@ You can click the Preview link to take a look at your changes.
   
   <h4> 🏆Baejoon Ranking </h4>
 
-<a href="https://solved.ac" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pinotnoir056"></a>
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinotnoir056)](https://solved.ac)
   
 </div>
